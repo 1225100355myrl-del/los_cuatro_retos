@@ -24,8 +24,8 @@ Enciende el emulador y ejecuta: flutter run -d emulator-5554
 Capturas de pantalla para demostrar que la app funciona
 
 Capturas generales (2)
- G1 – capturas/G1_dispositivos.png: la terminal de VS Code mostrando flutter devices con el emulador detectado.
- G2 – capturas/G2_flutter_run.png: la terminal mostrando flutter run compilando y la app ya iniciada (mensaje de "Flutter run key commands" o similar).
+ G1 – capturas/G1_dispositivos.png
+ G2 – capturas/G2_flutter_run.png: 
 
 G1 G2
 
