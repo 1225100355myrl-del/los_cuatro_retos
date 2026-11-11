@@ -119,9 +119,6 @@ Consume la API pública de **CoinGecko** para mostrar el precio en USD de Bitcoi
 
 ![Precios](capturas/R4_1_precios.png)
 
-**Conversión con un monto de 1000 USD**
-
-![Monto 1000](capturas/R4_2_monto_1000.png)
 
 **Conversión con un monto con decimales**
 
