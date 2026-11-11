@@ -101,9 +101,7 @@ Consume la API de **OpenWeatherMap** para mostrar el clima actual por ciudad. In
 
 ![Permiso ubicación](capturas/R3_4_permiso_ubicacion.png)
 
-**Clima con ubicación automática**
 
-![Ubicación automática](capturas/R3_5_ubicacion_auto.png)
 
 **Manejo de errores: ciudad no encontrada**
 
